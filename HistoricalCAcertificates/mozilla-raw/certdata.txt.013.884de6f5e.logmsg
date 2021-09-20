@@ -1,0 +1,4 @@
+*******************************************************
+David Keeler, Bug 1409872 - Remove active distrust entries for certificates that have expired r=ttaubert, Reviewers: ttaubert Reviewed By: ttaubert Bug #: 1409872 Differential Revision: https://phabricator.services.mozilla.com/D139 , 2017-11-16 21:49:57 +0100
+  884de6f5e:lib/ckfw/builtins/certdata.txt 
+*******************************************************

@@ -1,0 +1,4 @@
+*******************************************************
+Kai Engert, Bug 1146026 - Distrust MSCHOLDING intermediate certificate, r=rlb, , 2015-04-17 14:00:18 +0200
+  69fb1cb0b:lib/ckfw/builtins/certdata.txt 
+*******************************************************

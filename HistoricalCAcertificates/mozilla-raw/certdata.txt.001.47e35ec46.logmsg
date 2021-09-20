@@ -1,0 +1,4 @@
+*******************************************************
+Marcus Burghardt, Bug 1465613 - Created two new fields for scheduled distrust from builtins and updated support commands. r=jcj,kjacobs,mt, Added two new fields do scheduled distrust of CAs in nssckbi/builtins. Also, created a testlib to validate these fields with gtests. Differential Revision: https://phabricator.services.mozilla.com/D36597 --HG-- extra : moz-landing-system : lando , 2019-10-11 03:49:25 +0000
+  47e35ec46:lib/ckfw/builtins/certdata.txt 
+*******************************************************

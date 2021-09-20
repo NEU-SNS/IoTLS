@@ -1,0 +1,4 @@
+*******************************************************
+Kai Engert, Bug 1272156 - Remove IGC/A root certificate, r=kwilson, , 2016-09-22 20:53:59 +0200
+  c58af85d2:lib/ckfw/builtins/certdata.txt 
+*******************************************************

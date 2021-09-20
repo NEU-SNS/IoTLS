@@ -1,0 +1,4 @@
+*******************************************************
+Marcus Burghardt, Bug 1574670 - Remove Expired root certificates - Class 2 Primary, UTN-USERFirst-Client, Deutsche Telekom Root CA 2. r=jcj,KathleenWilson, Differential Revision: https://phabricator.services.mozilla.com/D42633 --HG-- extra : moz-landing-system : lando , 2019-08-20 20:24:53 +0000
+  6a62a5dcb:lib/ckfw/builtins/certdata.txt 
+*******************************************************

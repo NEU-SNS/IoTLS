@@ -1,0 +1,4 @@
+*******************************************************
+Rob Stradling, Bug 966350: Remove the unnecessary double-quote at the end of the CKA_LABEL for the distrust record of a pb.com certificate. r=wtc., , 2014-03-05 18:10:49 -0800
+  4d3218c3c:lib/ckfw/builtins/certdata.txt 
+*******************************************************

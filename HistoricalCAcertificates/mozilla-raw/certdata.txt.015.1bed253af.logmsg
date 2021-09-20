@@ -1,0 +1,4 @@
+*******************************************************
+Kai Engert, Bug 1408080, October 2017 batch of root CA changes, r=kwilson, , 2017-10-17 19:09:49 +0200
+  1bed253af:lib/ckfw/builtins/certdata.txt 
+*******************************************************

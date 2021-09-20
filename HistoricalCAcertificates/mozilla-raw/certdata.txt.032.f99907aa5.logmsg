@@ -1,0 +1,4 @@
+*******************************************************
+Kai Engert, Bug 1045189 - Include "USERTrust Legacy Secure Server CA" intermediate CA cert (no explicit trust) to ease transition off of roots removed in NSS 3.16.3, r=rrelyea, , 2014-08-05 19:23:05 +0200
+  f99907aa5:lib/ckfw/builtins/certdata.txt 
+*******************************************************

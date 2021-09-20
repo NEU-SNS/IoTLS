@@ -1,0 +1,4 @@
+*******************************************************
+Kai Engert, Bug 942147 - Add identifying comments to existing entries in certdata.txt (no functional change, adding comments only). r=kwilson, , 2013-11-25 22:25:01 +0100
+  6a93f295f:lib/ckfw/builtins/certdata.txt 
+*******************************************************

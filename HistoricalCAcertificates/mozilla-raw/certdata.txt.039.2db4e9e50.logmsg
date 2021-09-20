@@ -1,0 +1,4 @@
+*******************************************************
+Camilo Viecco, Bug 966060: Distrust three VeriSign intermediate certificates, r=kaie, --HG-- extra : source : 7e92e560a7174afc788aefb46bd65cb2f1cb72aa , 2014-02-27 15:21:37 -0800
+  2db4e9e50:lib/ckfw/builtins/certdata.txt 
+*******************************************************

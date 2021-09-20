@@ -1,0 +1,4 @@
+*******************************************************
+Kai Engert, Bug 936304, Remove Entrust.net, GTE CyberTrust, and ValiCert 1024-bit root certificates from NSS, r=kwilson, , 2014-01-24 12:31:47 +0100
+  8ee2034ee:lib/ckfw/builtins/certdata.txt 
+*******************************************************

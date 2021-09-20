@@ -1,0 +1,4 @@
+*******************************************************
+Marcus Burghardt, Bug 1566569 - Remove Swisscom Root CA 2 root certificate. r=jcj, Differential Revision: https://phabricator.services.mozilla.com/D42161 --HG-- extra : moz-landing-system : lando , 2019-08-15 16:46:03 +0000
+  1038f186c:lib/ckfw/builtins/certdata.txt 
+*******************************************************

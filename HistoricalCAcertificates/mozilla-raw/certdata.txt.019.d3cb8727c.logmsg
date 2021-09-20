@@ -1,0 +1,4 @@
+*******************************************************
+Kai Engert, Bug 1296697 - December 2016 batch of root CA changes (to be released in early January 2017), r=kwilson, , 2017-01-02 13:56:37 +0100
+  d3cb8727c:lib/ckfw/builtins/certdata.txt 
+*******************************************************

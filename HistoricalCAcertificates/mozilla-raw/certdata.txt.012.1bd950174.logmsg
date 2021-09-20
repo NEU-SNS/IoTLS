@@ -1,0 +1,4 @@
+*******************************************************
+Kai Engert, 1418678, Add Certum CA Root certificate back to NSS (revert removal) with only Email trust bit set, r=kwilson, , 2017-11-22 17:53:52 +0100
+  1bd950174:lib/ckfw/builtins/certdata.txt 
+*******************************************************

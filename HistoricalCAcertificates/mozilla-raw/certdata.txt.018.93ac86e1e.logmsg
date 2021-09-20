@@ -1,0 +1,4 @@
+*******************************************************
+Kai Engert, Bug 1334976, use a new attribute in the builtins root CA list, to distinguish between Mozilla policy CAs and other CAs, certdata.txt, r=rrelyea, , 2017-02-09 20:10:48 +0100
+  93ac86e1e:lib/ckfw/builtins/certdata.txt 
+*******************************************************

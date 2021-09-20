@@ -1,0 +1,4 @@
+*******************************************************
+J.C. Jones, Bug 1552374 - Remove Certnomis Root CA from the root store r=KevinJacobs,KathleenWilson, Move to root store version 2.34 for NSS 3.45 Common Name: Certinomis - Root CA SHA-1 Fingerprint: 9D70BB01A5A4A018112EF71C01B932C534E788A8 SHA-256 Fingerprint: 2A99F5BC1174B73CBB1D620884E01C34E51CCB3978DA125F0E33268883BF4158 Trust Bits: Websites Differential Revision: https://phabricator.services.mozilla.com/D33369 --HG-- extra : moz-landing-system : lando , 2019-06-04 16:22:59 +0000
+  311ccf25b:lib/ckfw/builtins/certdata.txt 
+*******************************************************

@@ -1,0 +1,4 @@
+*******************************************************
+Brian Smith, Bug 936304: Revert removal of Entrust.net, GTE CyberTrust, and ValiCert 1024-bit root certificates from NSS by backing out cset 1cef53398ecf, a=nss-teleconference, , 2014-02-27 15:56:37 -0800
+  ee8820a8c:lib/ckfw/builtins/certdata.txt 
+*******************************************************

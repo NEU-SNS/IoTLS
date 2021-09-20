@@ -1,0 +1,4 @@
+*******************************************************
+Kai Engert, Bug 1289889, Add ISRG Root X1 root certificate to NSS; reviewed in Bug 1290999, r=rlb, , 2016-08-05 17:42:30 +0200
+  c6bc26a58:lib/ckfw/builtins/certdata.txt 
+*******************************************************

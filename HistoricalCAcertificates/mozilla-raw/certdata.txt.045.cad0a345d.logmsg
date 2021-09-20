@@ -1,0 +1,4 @@
+*******************************************************
+Brian Smith, Bug 863871, Part 3: Remove CVS keywords from generated code, r=wtc, --HG-- extra : rebase_source : 7b933502effc78b8cad7232584d35644679c15a0 , 2013-05-16 14:21:25 -0700
+  cad0a345d:lib/ckfw/builtins/certdata.txt 
+*******************************************************

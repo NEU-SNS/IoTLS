@@ -1,0 +1,4 @@
+*******************************************************
+Kai Engert, Bug 1155279 - temporarily re-enable SSL trust bit for Equifax 1024-bit roots, r=kwilson, , 2015-04-20 19:50:34 +0200
+  294fb73ac:lib/ckfw/builtins/certdata.txt 
+*******************************************************

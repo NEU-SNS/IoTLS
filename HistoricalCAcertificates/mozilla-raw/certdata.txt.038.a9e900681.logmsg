@@ -1,0 +1,4 @@
+*******************************************************
+Camilo Viecco, Bug 966350: Distrust a pb.com certificate that does not comply with the baseline requirements, r=kaie, --HG-- extra : source : 352e4b1d4ccd20213e81630fb883a49db5d079a4 , 2014-02-19 10:04:25 -0800
+  a9e900681:lib/ckfw/builtins/certdata.txt 
+*******************************************************

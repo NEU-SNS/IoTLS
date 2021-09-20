@@ -1,0 +1,4 @@
+*******************************************************
+Kai Engert, Bug 1046343 - Backout (undo) the removal of GTE CyberTrust Global Root, r=rrelyea, , 2014-08-05 19:22:17 +0200
+  551741387:lib/ckfw/builtins/certdata.txt 
+*******************************************************

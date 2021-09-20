@@ -1,0 +1,4 @@
+*******************************************************
+Kai Engert, Bug 1145270 - Remove E-Guven root certificate from NSS, r=rrelyea, r=ryan.sleevi, , 2015-03-26 20:50:54 +0100
+  2f6222727:lib/ckfw/builtins/certdata.txt 
+*******************************************************
